@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <p class="test">nmsl</p>
+    <p class="test">cnm</p>
   </div>
 </template>
 
